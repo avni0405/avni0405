@@ -1,4 +1,4 @@
-### Hi there, I'm Avina Vekariya,a passionate about web development,open source,data analysis.<img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" >
+### Hi there, I'm Avina Vekariya, passionate  about  web  development,open  source,data  analysis.<img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" >
 [![Twitter Follow](https://img.shields.io/twitter/follow/vekariya_avina?label=Follow)](https://twitter.com/vekariya_avina?s=09)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Avina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avina-vekariya-357068175)](https://www.linkedin.com/in/avina-vekariya-357068175)
 [![GitHub followers](https://img.shields.io/github/followers/avni0405?label=Follow&style=social&link=https://github.com/avni0405)](https://github.com/avni0405/)
